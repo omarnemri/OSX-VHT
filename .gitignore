@@ -1,0 +1,12 @@
+*.dist
+*.dmg
+*.img
+*.iso
+*.pkg
+*.sha256sum
+*.smd
+*.sucatalog
+*.chunklist
+OVMF_VARS*.fd
+OpenCore-Catalina/EFI/OC/Resources/
+.direnv/
