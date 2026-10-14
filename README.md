@@ -15,7 +15,7 @@ Working with `Proxmox` and macOS:
 - See [Nick's blog for sure](https://www.nicksherlock.com/)
 - Here’s a more up-to-date version for `Proxmox` [OpenCore-ISO](https://github.com/LongQT-sea/OpenCore-ISO)
 
-Yes, we support offline macOS installations now - see [this document](./run_offline.md) 🎉
+Yes, we support offline macOS installations now - see [this document](./run_offline.md) 
 
 
 ### Contributing Back
